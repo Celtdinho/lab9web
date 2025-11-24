@@ -40,3 +40,5 @@ Menambahkan file `.htaccess` untuk menghilangkan `index.php` pada URL.
 ## Hasil
 
 Aplikasi dapat menampilkan halaman berbeda dengan tampilan seragam dan mendukung fitur CRUD dengan database melalui sistem routing modular.
+
+![foto](lab9.png)
